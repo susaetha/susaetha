@@ -5,9 +5,9 @@ As a web designer, my objective is to make a positive impact on clients, co-work
 
 ```python
 Name: susaetha
-Email: **susaethavijayarav@gmail.com**
+Email: susaethavijayarav@gmail.com
 Mobile: 8668177709
-Profile: (https://www.linkedin.com/in/susaetha-vijayarao-001b89258)
+Profile: https://www.linkedin.com/in/susaetha-vijayarao-001b89258
 ```
 ABOUT:
 - 👩‍🦰 I'm a wordpress developer .
@@ -24,16 +24,16 @@ EDUCATION 👩‍🎓
 - CGPA: 7.22
 
 WORK EXPERIENCE 💼
--wordpress developer
--Li creative technology, puducherry.
--10/2022 - 07/2023
+- wordpress developer
+- Li creative technology, puducherry.
+- 10/2022 - 07/2023
 
 SKILL:
--Html
--Wordpres
--CSS
--SEO
--Canva
+- Html
+- Wordpres
+- CSS
+- SEO
+- Canva
 
 <!---
 itsyogieu/itsyogieu is a âœ¨ special âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,12 +65,4 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 
-## Github TrophyðŸ†
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itsyogieu&theme=onedark)](https://github.com/itsyogieu)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsyogieu&theme=chartreuse-dark&hide_border=True" alt="itsyogieu"/></p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20ðŸ’™-red?style=for-the-badge&logo=github"/>
-</p>
