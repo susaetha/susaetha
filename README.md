@@ -17,7 +17,7 @@ Country = "ðŸ‡®ðŸ‡³"
 - ðŸ‘€ Iâ€™m interested in ... Designing 
 - ðŸŒ± Iâ€™m currently learning ...UI/UX design 
 
-- ðŸ“« How to reach me ...[LinkedIn](https://www.instagram.com/its_yogie_u/)
+- ðŸ“« How to reach me ...[LinkedIn](https://www.linkedin.com/in/susaetha-vijayarao-001b89258)
 
 
 
