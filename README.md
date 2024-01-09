@@ -1,23 +1,19 @@
 
-### About ðŸ™‹ðŸ»â€â™‚ï¸
+### Object 
 ```python
-Name = "Susaetha V"
-who_i_am = [WordPress developer| SEOðŸ’™']
-Do Check Our Bots = "Useful"
-Country = "ðŸ‡®ðŸ‡³"
+As a web designer, my objective is to make a positive impact on clients, co-workers, and the Internet using my skills and experience to design compelling and attractive websites.
 ```
-[![Profile views](https://gpvc.arturio.dev/itsyogieu)](https://github.com/itsyogieu)
+[![Profile views](https://www.linkedin.com/in/susaetha-vijayarao-001b89258)]
 
+About us:
 
-
-
-
-- ðŸ‘¨â€ðŸ’» I'm a wordpress developer .
-- ðŸ‘‹ Hi, Iâ€™m Working at Li creative technology
-- ðŸ‘€ Iâ€™m interested in ... Designing 
-- ðŸŒ± Iâ€™m currently learning ...UI/UX design 
-
-- ðŸ“« How to reach me ...[LinkedIn](https://www.linkedin.com/in/susaetha-vijayarao-001b89258)
+- 👩‍🦰 I'm a wordpress developer .
+- 👩‍💻 Working at Li creative technology, puducherry.
+- 🌱 interested in ... Designing 
+- 📖currently learning ...UI/UX design 
+- How to reach me
+     📩 Email: **susaethavijayarav@gmail.com**...
+     📞 Phone: **8668177709**
 
 
 
