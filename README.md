@@ -16,15 +16,15 @@ ABOUT:
 - 📖 currently learning ...UI/UX design 
 - How to reach me
      📩 Email: **susaethavijayarav@gmail.com**...
-     📞 Phone: **8668177709**
+     📞 Phone: 8668177709
 
-🎓EDUCATION 
+🎓 EDUCATION 
 
 - Bachelor's of computer science
 - College: Bharathidasan government college for women puducherry
 - CGPA: 7.22
 
-💼WORK EXPERIENCE 
+💼 WORK EXPERIENCE 
 
 - wordpress developer
 - Li creative technology, puducherry.
@@ -36,7 +36,7 @@ Responsibility:
 - Implement custom themes and plugins to meet specific client requirements, enhancing overall user experience.
 - Conduct website performance optimization, improving page load times and SEO rankings.
 
-🛠️SKILL:
+🛠️ SKILL:
 
 - Html
 - Wordpres
@@ -49,16 +49,9 @@ itsyogieu/itsyogieu is a âœ¨ special âœ¨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-### Languages and Tools
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
-[<img align="left" alt="Linux" width="26px" src="https://telegra.ph/file/632a53dc7a08b08ebdeef.jpg" />](https://www.telegram.org/)
-[<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
-[<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
 
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 
 
