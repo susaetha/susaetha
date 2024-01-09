@@ -1,5 +1,5 @@
 
-### Object 
+Object 
 
 As a web designer, my objective is to make a positive impact on clients, co-workers, and the Internet using my skills and experience to design compelling and attractive websites.
 
@@ -13,22 +13,31 @@ ABOUT:
 - 👩‍🦰 I'm a wordpress developer .
 - 👩‍💻 Working at Li creative technology, puducherry.
 - 🌱 interested in ... Designing 
-- 📖currently learning ...UI/UX design 
+- 📖 currently learning ...UI/UX design 
 - How to reach me
      📩 Email: **susaethavijayarav@gmail.com**...
      📞 Phone: **8668177709**
 
-EDUCATION 👩‍🎓
-- Bachelor's of computer science🎓
+🎓EDUCATION 
+
+- Bachelor's of computer science
 - College: Bharathidasan government college for women puducherry
 - CGPA: 7.22
 
-WORK EXPERIENCE 💼
+💼WORK EXPERIENCE 
+
 - wordpress developer
 - Li creative technology, puducherry.
 - 10/2022 - 07/2023
 
-SKILL:
+Responsibility:
+- Lead the development of WordPress websites from concept to deployment, ensuring high-quality and responsive designs.
+- Collaborate with cross-functional teams, including designers and content creators, to achieve seamless integration of visual elements and functionality.
+- Implement custom themes and plugins to meet specific client requirements, enhancing overall user experience.
+- Conduct website performance optimization, improving page load times and SEO rankings.
+
+🛠️SKILL:
+
 - Html
 - Wordpres
 - CSS
