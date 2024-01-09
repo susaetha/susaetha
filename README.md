@@ -1,12 +1,15 @@
 
 ### Object 
-```python
+
 As a web designer, my objective is to make a positive impact on clients, co-workers, and the Internet using my skills and experience to design compelling and attractive websites.
+
+```python
+Name: susaetha
+Email: **susaethavijayarav@gmail.com**
+Mobile: 8668177709
+Profile: (https://www.linkedin.com/in/susaetha-vijayarao-001b89258)
 ```
-[![Profile views](https://www.linkedin.com/in/susaetha-vijayarao-001b89258)]
-
-About us:
-
+ABOUT:
 - 👩‍🦰 I'm a wordpress developer .
 - 👩‍💻 Working at Li creative technology, puducherry.
 - 🌱 interested in ... Designing 
@@ -15,7 +18,22 @@ About us:
      📩 Email: **susaethavijayarav@gmail.com**...
      📞 Phone: **8668177709**
 
+EDUCATION 👩‍🎓
+- Bachelor's of computer science🎓
+- College: Bharathidasan government college for women puducherry
+- CGPA: 7.22
 
+WORK EXPERIENCE 💼
+-wordpress developer
+-Li creative technology, puducherry.
+-10/2022 - 07/2023
+
+SKILL:
+-Html
+-Wordpres
+-CSS
+-SEO
+-Canva
 
 <!---
 itsyogieu/itsyogieu is a âœ¨ special âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
